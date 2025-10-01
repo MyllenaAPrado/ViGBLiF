@@ -38,6 +38,7 @@ You can modify the hyperparameters and dataset paths in the configuration file `
 ## Citation
 If you use this code in your research, please cite our paper:
 
+Note: The citation will be updated once the paper is published
 ```
 @article{ViGBLiF,
   author = {Author Name, et al.},
