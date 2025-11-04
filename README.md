@@ -38,15 +38,17 @@ You can modify the hyperparameters and dataset paths in the configuration file `
 ## Citation
 If you use this code in your research, please cite our paper:
 
-Note: The citation will be updated once the paper is published
 ```
-@article{ViGBLiF,
-  author = {Author Name, et al.},
-  title = {ViGBLiF: Graph Framework for No-Reference Light Field Image Quality Prediction},
-  journal = {Journal Name},
-  year = {2025},
-  url = {Link to paper}
-}
+@INPROCEEDINGS{11219897,
+  author={Prado, Myllena A. and Farias, Mylène C. Q.},
+  booktitle={2025 17th International Conference on Quality of Multimedia Experience (QoMEX)}, 
+  title={ViGBLiF: A Graph-Based Approach to No-Reference Light Field Image Quality Assessment}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-7},
+  doi={10.1109/QoMEX65720.2025.11219897}}
+
 ```
 
 ## License
